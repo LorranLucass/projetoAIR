@@ -1,0 +1,169 @@
+.banner {
+  background-color: white;
+  background-image: url('https://img.freepik.com/fotos-premium/texturas-abstratas-de-fundo-militar-de-camuflagem-preta_743855-8940.jpg');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.banner img {
+  max-width: 100%;
+  background-image: url('https://img.freepik.com/fotos-premium/texturas-abstratas-de-fundo-militar-de-camuflagem-preta_743855-8940.jpg')
+}
+
+.carousel-custom {
+  max-width: 2000px;
+  margin: 0 auto;
+}
+
+.carousel-img {
+  object-fit: cover;
+  height: 300px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #ffffff;
+}
+
+.header, .banner {
+  background-color: #4B5320;
+  color: #D2B48C;
+  background-image: url('https://img.freepik.com/fotos-premium/texturas-abstratas-de-fundo-militar-de-camuflagem-preta_743855-8940.jpg')
+}
+
+.card {
+  background-color: #D2B48C;
+  border: 1px solid #556B2F;
+  color: #D2B48C;
+  background-image: url('https://img.freepik.com/fotos-premium/texturas-abstratas-de-fundo-militar-de-camuflagem-preta_743855-8940.jpg')
+}
+
+.card-title {
+  color: #D2B48C;
+}
+
+.card-footer {
+  background-color: #556B2F;
+}
+
+.button {
+  background-color: #FFD700;
+  color: #D2B48C;
+  border: none;
+}
+
+.carousel-custom .carousel-item img {
+  max-height: 500px;
+  object-fit: cover;
+}
+
+.carousel-caption {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: white;
+}
+
+footer {
+  background-color: #2F4F4F;
+  color:#D2B48C;
+}
+
+a {
+  color: #FFD700;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D2B48C;
+}
+
+.navbar {
+  background-color: #4B5320;
+}
+
+.navbar-nav .nav-link {
+  color: #D2B48C;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #FFD700;
+}
+
+.navbar-brand {
+  color: #FFD700;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+  color: #D2B48C;
+}
+
+.navbar-collapse {
+  background-color: #556B2F;
+}
+
+.navbar-toggler {
+  border-color: #FFD700;
+}
+
+.navbar-toggler-icon {
+  background-color: #FFD700;
+}
+
+body {
+  background-color: #2F4F4F;
+  color: #D2B48C;
+  background-image: url('https://img.freepik.com/fotos-premium/texturas-abstratas-de-fundo-militar-de-camuflagem-preta_743855-8940.jpg')
+}
+
+.navbar {
+  background-color: #556B2F;
+  background-image: url('https://img.freepik.com/fotos-premium/texturas-abstratas-de-fundo-militar-de-camuflagem-preta_743855-8940.jpg')
+}
+
+.banner {
+  background-color: #3B5323;
+  padding: 20px;
+}
+
+.container {
+  background-color: #4B5320;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.card-modern {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-modern:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.card-title {
+  color: white;
+  transition: color 0.3s ease;
+}
+
+.card-modern:hover .card-title {
+  color: #FFD700;
+}
+
+.card-footer {
+  background-color: transparent;
+  transition: background-color 0.3s ease;
+}
+
+.card-footer:hover {
+  background-color: rgba(85, 107, 47, 0.7);
+}
+
+.card-modern .btn {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.card-modern .btn:hover {
+  background-color: #FFD700;
+  color: #4B5320;
+}
